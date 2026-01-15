@@ -44,7 +44,7 @@ I enjoy building complete systems that combine **hardware and software**, especi
 - Arduino
 - ESP32 / ESP8266
 - Sensors & actuators
-- Timers, counters, digital signals
+- Digital I/O
 - Real-time and low-level programming
 
 ### 🌐 Backend & Systems
