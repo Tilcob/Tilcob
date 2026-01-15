@@ -19,7 +19,7 @@ I'm a **Mechatronics Engineering student at Johannes Kepler University (JKU) Lin
 
 Before university, I graduated from a **Higher Technical College (HTL) in Mechanical Engineering**, specializing in **Automation Technology**, where I gained hands-on experience with industrial systems.
 
-I enjoy working on projects that combine **hardware and software**, especially involving **PLCs, microcontrollers, sensors, and networked systems**.
+I enjoy building complete systems that combine **hardware and software**, especially involving **PLCs, microcontrollers, sensors, and networked applications**.
 
 - 🎓 Mechatronics student at JKU Linz  
 - 🏫 HTL graduate in Mechanical Engineering (Automation focus)  
@@ -35,13 +35,17 @@ I enjoy working on projects that combine **hardware and software**, especially i
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk)
+![C](https://img.shields.io/badge/C-black?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=cplusplus)
 
 ### ⚙️ Automation & Embedded Systems
 - PLC programming (SPS)
 - Microcontrollers (µC)
+- Arduino
+- ESP32 / ESP8266
 - Sensors & actuators
 - Timers, counters, digital signals
-- Basic control engineering
+- Real-time and low-level programming
 
 ### 🌐 Backend & Systems
 - Spring Boot (Java)
@@ -68,7 +72,6 @@ I enjoy working on projects that combine **hardware and software**, especially i
 - Deployed on a **Raspberry Pi 5**
 - Used to store and manage **inventory and other goods**
 - Includes a **browser-based frontend** accessible via the local network
-- Backend provides structured data handling and API logic
 
 **Technologies:** Java, Spring Boot, Raspberry Pi, HTML/CSS, Networking
 
@@ -77,22 +80,16 @@ I enjoy working on projects that combine **hardware and software**, especially i
 ### 🏭 Conveyor Belt Automation with Scanners & Microcontroller
 
 - Modified an existing **conveyor belt system**
-- Installed **two scanners**:
-  - Side scanner: reads **carton codes**
-  - Top scanner: reads **bottle codes**
-- A **microcontroller** processes scanner signals and counts detected codes
-- System verifies whether the **expected number of bottle codes** is present
-- If the count is incorrect:
-  - Conveyor continues until an **internal µC timer expires**
-  - Conveyor belt then **stops automatically**
-- Focus on **reliability, timing logic, and signal processing**
+- Integrated **side and top scanners** for carton and bottle codes
+- **Microcontroller-based counting logic** using digital signals
+- Timer-controlled validation and automatic conveyor stop on mismatch
 
-**Technologies:** Microcontroller, digital I/O, scanners, timers, automation logic
+**Technologies:** Microcontroller, C/C++, scanners, automation logic
 
 ---
 
 ### 🔹 Learning & Experimental Projects
-Smaller projects focused on learning new technologies, testing ideas, and improving engineering skills.
+Smaller projects focused on learning new technologies, embedded programming, and automation concepts.
 
 ---
 
@@ -110,8 +107,8 @@ Smaller projects focused on learning new technologies, testing ideas, and improv
 ## 🎯 What I'm Currently Working On
 
 - 🎮 Developing a 2D game using **libGDX**
-- 🤖 Expanding my automation & embedded systems knowledge
-- 🧠 Strengthening system-level engineering skills
+- 🤖 Embedded projects with **Arduino & ESP microcontrollers**
+- 🧠 Expanding automation and control engineering skills
 
 ---
 
