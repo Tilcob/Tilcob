@@ -15,18 +15,18 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Mechatronics Engineering student at Johannes Kepler University (JKU) Linz** with a strong passion for both **hardware and software development**.
+I'm a **Mechatronics Engineering student at Johannes Kepler University (JKU) Linz** with a strong interest in **automation, embedded systems, and software development**.
 
-Before university, I completed a **Higher Technical College (HTL) degree in Mechanical Engineering** with a focus on **Automation Technology**, where I gained hands-on experience with **industrial systems and control engineering**.
+Before university, I graduated from a **Higher Technical College (HTL) in Mechanical Engineering**, specializing in **Automation Technology**, where I gained hands-on experience with industrial systems.
 
-I enjoy working with **PLCs (SPS), microcontrollers, and embedded systems**, and I like building complete solutions — from hardware design to software implementation.
+I enjoy working on projects that combine **hardware and software**, especially involving **PLCs, microcontrollers, sensors, and networked systems**.
 
 - 🎓 Mechatronics student at JKU Linz  
 - 🏫 HTL graduate in Mechanical Engineering (Automation focus)  
 - 🤖 Experience with PLCs (SPS) and microcontrollers  
-- 🔧 Strong interest in hardware-oriented projects  
-- 💻 Passion for clean, maintainable, and well-structured code  
-- 🌱 Continuously learning and improving through projects  
+- 🔧 Strong hardware-oriented mindset  
+- 💻 Focus on clean, maintainable software  
+- 🌱 Learning by building real systems  
 
 ---
 
@@ -36,11 +36,18 @@ I enjoy working with **PLCs (SPS), microcontrollers, and embedded systems**, and
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk)
 
-### ⚙️ Automation & Embedded
-- PLC programming (SPS)  
-- Microcontrollers (µC)  
-- Sensors & actuators  
-- Basic control engineering  
+### ⚙️ Automation & Embedded Systems
+- PLC programming (SPS)
+- Microcontrollers (µC)
+- Sensors & actuators
+- Timers, counters, digital signals
+- Basic control engineering
+
+### 🌐 Backend & Systems
+- Spring Boot (Java)
+- REST APIs
+- Network-based systems
+- Raspberry Pi
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
@@ -55,13 +62,37 @@ I enjoy working with **PLCs (SPS), microcontrollers, and embedded systems**, and
 
 ## 📂 Projects
 
+### 🗄️ Network-Internal Inventory System (Spring Boot & Raspberry Pi)
+
+- Built a **network-internal database system** using **Java Spring Boot**
+- Deployed on a **Raspberry Pi 5**
+- Used to store and manage **inventory and other goods**
+- Includes a **browser-based frontend** accessible via the local network
+- Backend provides structured data handling and API logic
+
+**Technologies:** Java, Spring Boot, Raspberry Pi, HTML/CSS, Networking
+
+---
+
+### 🏭 Conveyor Belt Automation with Scanners & Microcontroller
+
+- Modified an existing **conveyor belt system**
+- Installed **two scanners**:
+  - Side scanner: reads **carton codes**
+  - Top scanner: reads **bottle codes**
+- A **microcontroller** processes scanner signals and counts detected codes
+- System verifies whether the **expected number of bottle codes** is present
+- If the count is incorrect:
+  - Conveyor continues until an **internal µC timer expires**
+  - Conveyor belt then **stops automatically**
+- Focus on **reliability, timing logic, and signal processing**
+
+**Technologies:** Microcontroller, digital I/O, scanners, timers, automation logic
+
+---
+
 ### 🔹 Learning & Experimental Projects
-Repositories where I explore new technologies, engineering concepts, and programming techniques through hands-on experimentation.
-
-### 🔹 Practical & Engineering-Focused Projects
-Projects focused on real-world problems, automation, hardware interaction, and clean system design.
-
-👉 Feel free to explore my repositories for code examples and documentation.
+Smaller projects focused on learning new technologies, testing ideas, and improving engineering skills.
 
 ---
 
@@ -79,8 +110,8 @@ Projects focused on real-world problems, automation, hardware interaction, and c
 ## 🎯 What I'm Currently Working On
 
 - 🎮 Developing a 2D game using **libGDX**
-- 🤖 Expanding my skills in automation and embedded systems
-- 🧠 Strengthening my engineering and problem-solving skills
+- 🤖 Expanding my automation & embedded systems knowledge
+- 🧠 Strengthening system-level engineering skills
 
 ---
 
@@ -88,10 +119,12 @@ Projects focused on real-world problems, automation, hardware interaction, and c
 
 - 💬 Open to discussions via GitHub Issues & Discussions  
 - ⭐️ Feel free to star or fork repositories  
-- 🤝 Always open to collaboration, feedback, and engineering-related projects  
+- 🤝 Open to collaboration, internships, and engineering projects  
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my p
+### ⭐ Thanks for visiting my profile!
+
+</div>
