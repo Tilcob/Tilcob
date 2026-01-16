@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tilcop  
+# Jakob Dorninger (Tilcob)
 ### Mechatronics Engineering | Automation • Embedded Systems • Software
 
 Engineering complete systems by integrating mechanics, electronics, and software.
