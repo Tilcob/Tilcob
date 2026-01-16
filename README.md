@@ -35,7 +35,8 @@ Primary interest:
 
 - Structured and modular programming
 - Low-level and embedded software development
-- Object-oriented design (Java)
+- Object-oriented design (OOP)
+- Data-oriented design (ECS)
 
 ---
 
