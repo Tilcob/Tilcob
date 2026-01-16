@@ -28,8 +28,8 @@ Primary interest:
 ## Core Competencies
 
 ### Programming
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![C](https://img.shields.io/badge/C-black?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=cplusplus)
 
