@@ -120,11 +120,5 @@ Primary interest:
 
 - Open to engineering discussions and technical reviews
 - Interested in internships, student projects, and applied engineering work
-
----
-
 <div align="center">
-
-End of profile.
-
 </div>
