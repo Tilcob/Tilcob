@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Tilcop  
-### Mechatronics Engineering Student | Hardware & Software Enthusiast | Lifelong Learner
+# Tilcop  
+### Mechatronics Engineering | Automation • Embedded Systems • Software
 
-🚀 Building real-world solutions by combining mechanics, electronics, and software.
+Engineering complete systems by integrating mechanics, electronics, and software.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tilcob&color=blueviolet&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/Tilcob?label=Followers&style=flat)
@@ -13,115 +13,117 @@
 
 ---
 
-## 🧑‍💻 About Me
+## Profile
 
-I'm a **Mechatronics Engineering student at Johannes Kepler University (JKU) Linz** with a strong interest in **automation, embedded systems, and software development**.
+Mechatronics Engineering student at **Johannes Kepler University (JKU) Linz** with a background in **industrial automation and mechanical engineering**.
 
-Before university, I graduated from a **Higher Technical College (HTL) in Mechanical Engineering**, specializing in **Automation Technology**, where I gained hands-on experience with industrial systems.
+Graduate of a **Higher Technical College (HTL) in Mechanical Engineering**, specialization **Automation Technology**.  
+Experience ranges from **PLC-based automation** to **microcontroller systems** and **networked software solutions**.
 
-I enjoy building complete systems that combine **hardware and software**, especially involving **PLCs, microcontrollers, sensors, and networked applications**.
-
-- 🎓 Mechatronics student at JKU Linz  
-- 🏫 HTL graduate in Mechanical Engineering (Automation focus)  
-- 🤖 Experience with PLCs (SPS) and microcontrollers  
-- 🔧 Strong hardware-oriented mindset  
-- 💻 Focus on clean, maintainable software  
-- 🌱 Learning by building real systems  
+Primary interest:  
+**Design, implementation, and validation of complete technical systems** with a strong focus on reliability, structure, and maintainability.
 
 ---
 
-## 🧰 Tech Stack
+## Core Competencies
 
-### 💻 Programming Languages
+### Programming
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk)
 ![C](https://img.shields.io/badge/C-black?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=cplusplus)
 
-### ⚙️ Automation & Embedded Systems
+- Structured and modular programming
+- Low-level and embedded software development
+- Object-oriented design (Java)
+
+---
+
+### Automation & Embedded Systems
 - PLC programming (SPS)
-- Microcontrollers (µC)
-- Arduino
-- ESP32 / ESP8266
-- Sensors & actuators
-- Digital I/O
-- Real-time and low-level programming
+- Microcontroller-based systems (Arduino, ESP32, ESP8266)
+- Digital I/O, sensors, actuators
+- Real-time constraints and signal timing
+- Hardware-software integration
 
-### 🌐 Backend & Systems
+---
+
+### Systems & Backend
 - Spring Boot (Java)
-- REST APIs
-- Network-based systems
-- Raspberry Pi
+- RESTful APIs
+- Network-internal systems
+- Embedded Linux (Raspberry Pi)
 
-### 🛠️ Tools & Platforms
+---
+
+### Development Environment
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)
 
-### 🎮 Game Development
-- libGDX (Java, 2D game development)
-
 ---
 
-## 📂 Projects
+## Selected Projects
 
-### 🗄️ Network-Internal Inventory System (Spring Boot & Raspberry Pi)
+### Network-Internal Inventory Management System
 
-- Built a **network-internal database system** using **Java Spring Boot**
+**Description**
+- Design and implementation of a **local inventory management system**
+- Backend developed with **Java Spring Boot**
 - Deployed on a **Raspberry Pi 5**
-- Used to store and manage **inventory and other goods**
-- Includes a **browser-based frontend** accessible via the local network
+- Browser-based frontend accessible within the local network
+
+**Engineering Focus**
+- Network isolation and internal access
+- Resource-constrained deployment
+- Maintainable backend architecture
 
 **Technologies:** Java, Spring Boot, Raspberry Pi, HTML/CSS, Networking
 
 ---
 
-### 🏭 Conveyor Belt Automation with Scanners & Microcontroller
+### Conveyor Belt Automation with Code Scanners
 
-- Modified an existing **conveyor belt system**
-- Integrated **side and top scanners** for carton and bottle codes
-- **Microcontroller-based counting logic** using digital signals
-- Timer-controlled validation and automatic conveyor stop on mismatch
+**Description**
+- Extension of an existing **industrial conveyor belt system**
+- Integration of **side and top scanners** for carton and bottle identification
+- Microcontroller-based logic for counting and verification
+- Automatic conveyor stop on detection mismatch
 
-**Technologies:** Microcontroller, C/C++, scanners, automation logic
+**Engineering Focus**
+- Digital signal processing
+- Timing-critical validation logic
+- Fault detection and system safety
 
----
-
-### 🔹 Learning & Experimental Projects
-Smaller projects focused on learning new technologies, embedded programming, and automation concepts.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tilcob&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilcob&layout=compact&theme=tokyonight)
-
-</div>
+**Technologies:** Microcontroller, C/C++, industrial scanners, automation systems
 
 ---
 
-## 🎯 What I'm Currently Working On
-
-- 🎮 Developing a 2D game using **libGDX**
-- 🤖 Embedded projects with **Arduino & ESP microcontrollers**
-- 🧠 Expanding automation and control engineering skills
+### Experimental & Learning Projects
+- Embedded systems experiments
+- Automation logic prototypes
+- Hardware-software interaction testing
 
 ---
 
-## 🤝 Let's Connect
+## Current Engineering Focus
 
-- 💬 Open to discussions via GitHub Issues & Discussions  
-- ⭐️ Feel free to star or fork repositories  
-- 🤝 Open to collaboration, internships, and engineering projects  
+- Embedded systems using **Arduino and ESP microcontrollers**
+- Automation and control engineering fundamentals
+- 2D game development with **libGDX** (software architecture focus)
+
+---
+
+## Collaboration
+
+- Open to engineering discussions and technical reviews
+- Interested in internships, student projects, and applied engineering work
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+End of profile.
 
 </div>
