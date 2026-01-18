@@ -42,8 +42,7 @@ Primary interest:
 
 ### Automation & Embedded Systems
 - PLC programming (SPS)
-- Microcontroller-based systems (Arduino, ESP32, ESP8266)
-- Digital I/O, sensors, actuators
+- Microcontroller-based systems (Arduino, ESP32)
 - Real-time constraints and signal timing
 - Hardware-software integration
 
